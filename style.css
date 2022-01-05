@@ -1,4 +1,19 @@
 body{
    /* font-family: 'Prata', serif; */
    font-family: 'Roboto', sans-serif;
+   margin: 0;
+   padding: 0;
+}
+h1{
+    font-size: 40px;
+}
+.sologan{
+    font-family: 'Prata', serif;
+    font-weight: 900;
+    border-left: 4px solid;
+    border-color: orange;
+    padding-left: 8px;
+}
+.orange-color{
+    color: orange;
 }
