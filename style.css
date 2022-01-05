@@ -7,12 +7,31 @@ body{
 h1{
     font-size: 40px;
 }
+.top-banner{
+    display: flex;
+}
+.fiexable-2-contant{
+width: 50%;
+margin: 2% 5%;
+border: 1px solid;
+padding-left: 15px;
+}
+.fiexable-2-contant img{
+    width: 65%;
+    padding-left: 15px;
+}
 .sologan{
     font-family: 'Prata', serif;
     font-weight: 900;
     border-left: 4px solid;
     border-color: orange;
     padding-left: 8px;
+}
+#link{
+    text-decoration: none;
+    background-color: orange;
+    padding: 6px 12px;
+
 }
 .orange-color{
     color: orange;
