@@ -2,12 +2,12 @@ body{
    /* font-family: 'Prata', serif; */
    font-family: 'Roboto', sans-serif;
    margin: 0;
-   padding: 0;
+   padding: 0%;
 }
 h1{
     font-size: 40px;
 }
-.top-banner{
+.banner{
     display: flex;
 }
 .fiexable-2-contant{
@@ -20,6 +20,18 @@ padding-left: 15px;
     width: 65%;
     padding-left: 15px;
 }
+
+.fiexable-3-contant{
+    width: 30%;
+    margin: 10px ;
+    border: 1px solid;
+    padding-left: 15px;
+    }
+.fiexable-3-contant img{
+        width: 60%;
+        padding-left: 15px;
+    }
+
 .sologan{
     font-family: 'Prata', serif;
     font-weight: 900;
@@ -35,4 +47,12 @@ padding-left: 15px;
 }
 .orange-color{
     color: orange;
+}
+.aim{
+    margin-left: 4%;
+    margin-right: 3%;
+    margin-bottom: 15px;
+}
+.aim h1{
+    text-align: center;
 }
