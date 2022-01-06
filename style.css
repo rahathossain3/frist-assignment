@@ -12,15 +12,16 @@ h1{
 }
 .box-style{
     border-radius: 20px;
-    box-shadow: 1px 1px 25px gray;
+    box-shadow: 1px 1px 15px gray;
     }
+    
 .fiexable-2-contant{
 width: 50%;
 margin: 2% 5%;
 padding-left: 15px;
 }
 .fiexable-2-contant img{
-    width: 65%;
+    width: 75%;
     padding-left: 15px;
 }
 .fiexable-3-contant{
@@ -51,12 +52,13 @@ padding-left: 15px;
 .orange-color{
     color: orange;
 }
-.aim{
+.informatin{
     margin-left: 4%;
     margin-right: 3%;
     margin-bottom: 10px;
+    
 }
-.aim h1{
+.informatin h1{
     text-align: center;
 }
 #aim-1{
