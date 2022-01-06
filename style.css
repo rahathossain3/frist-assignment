@@ -92,9 +92,10 @@ padding-left: 15px;
     background-repeat: no-repeat;
     background-size: 57%;
     background-position: right top;
-    
 }
-
+.section-5{
+    margin-left: 15%;
+}
 .footer{
     background-color: black;
     padding: 25px;
