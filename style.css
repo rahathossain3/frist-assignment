@@ -64,6 +64,7 @@ padding-left: 15px;
 
 .section-1{
     background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
 }
 
 .informatin{
