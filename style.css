@@ -42,6 +42,7 @@ padding-left: 15px;
         width: 60%;
         padding-left: 15px;
     }
+
 .sologan{
     font-family: 'Prata', serif;
     font-weight: 900;
@@ -49,6 +50,7 @@ padding-left: 15px;
     border-color: orange;
     padding-left: 8px;
 }
+
 #link{
     text-decoration: none;
     color: white;
@@ -59,9 +61,11 @@ padding-left: 15px;
 .orange-color{
     color: orange;
 }
+
 .section-1{
     background-image: url(images/shapes/shape-6.png);
 }
+
 .informatin{
     margin-left: 4%;
     margin-right: 3%;
@@ -80,22 +84,25 @@ padding-left: 15px;
 }#aim-3{
     background-color: rgb(255, 233, 209);
 }
+
 .section-3{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 15%;
     background-position: left;
-
 }
+
 .section-4{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 57%;
     background-position: right top;
 }
+
 .section-5{
     margin-left: 15%;
 }
+
 .footer{
     background-color: black;
     padding: 25px;
