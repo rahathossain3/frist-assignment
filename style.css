@@ -17,7 +17,11 @@ p{
     border-radius: 20px;
     box-shadow: 1px 1px 15px gray;
     }
-    
+
+#box-with-otu-shadoW{
+    border-radius: 25px;
+}
+
 .fiexable-2-contant{
 width: 50%;
 margin: 2% 5%;
@@ -74,7 +78,20 @@ padding-left: 15px;
 }#aim-3{
     background-color: rgb(255, 233, 209);
 }
+.section-3{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
 
+}
+.section-4{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 57%;
+    background-position: right top;
+
+}
 
 .footer{
     background-color: black;
